@@ -1,7 +1,7 @@
 # Site settings
 title: MCai Blog
 SEOTitle: Manlin Cai | MCai Blog
-header-img: img/post-bg-universe.jpg
+header-img: img/540ACF83-861A-488E-8745-84902263A1EF.jpg
 email: mcai6@hawk.iit.edu
 description: "Statistic methods, Trading strategies, Machine learning"
 keyword: "MCai, MCai Blog, 漫琳的博客, mcai6, 蔡漫琳, Quant, Stocks, Futures"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/mcai6/mcai6.github.io/tree/master/_posts" # you
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/8B52591A-B923-42E5-83B3-B7B9486BA662.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/IMG_8122.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
