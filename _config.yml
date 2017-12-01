@@ -12,7 +12,7 @@ github_repo: "https://github.com/mcai6/mcai6.github.io.git" # you code repositor
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-#sidebar-avatar: /img/xxx.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/22580839.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
