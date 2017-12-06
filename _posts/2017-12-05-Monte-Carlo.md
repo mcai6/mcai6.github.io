@@ -19,8 +19,11 @@ import matplotlib.pyplot as plt
 
 ## Wiener Process
 
-Generalized Wiener Process said, stock price change in a small time frame is like this: dx = a*dt+b*dz 
-First part is drift rate, b*dz is noise
+Generalized Wiener Process said, stock price change in a small time frame is like this: 
+
+dx = a * dt + b * dz 
+
+a * dt is drift rate, b * dz is noise
 
 
 ```python
@@ -57,7 +60,7 @@ plt.show()
 ## Ito Process
 From Wiener, a and b are just constant.. Ito process is more complicated, in which ***a*** and ***b*** vary with price x and time t.
 
-Now dx = a(x,t)dt+b(x,t)dz
+Now, dx = a(x,t)dt+b(x,t)dz
 
 ## Monte Carlo simulation
 
@@ -80,20 +83,6 @@ for step in range(steps):
 print(S)
 
 ```
-
-    [[ 100.          100.          100.         ...,  100.          100.          100.        ]
-     [  99.37526371  101.34386018   98.30700398 ...,   98.06239098
-       100.28054951  103.71202923]
-     [  99.66237715  101.04169152   97.59357313 ...,   99.68145967   96.7377599
-       105.61257603]
-     ..., 
-     [ 101.73490001   94.42367307   85.06837593 ...,  128.08808645
-        97.80721269  115.8628037 ]
-     [  99.01639233   96.84321787   82.18566288 ...,  127.25239868
-        99.20361781  118.46113676]
-     [ 101.23710916   91.28673438   81.89699441 ...,  125.56668373
-       102.94450212  114.85017372]]
-
 
 
 ```python
