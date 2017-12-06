@@ -144,6 +144,6 @@ plt.show()
 
 ![png](https://ws1.sinaimg.cn/large/006tNc79gy1flvjo6lgt7j30mm0de0ub.jpg)
 
-##Links
+## Links
 1. [Algothmic Trading](https://www.amazon.com/Algorithmic-Trading-Winning-Strategies-Rationale/dp/1118460146/ref=sr_1_1?ie=UTF8&qid=1511660151&sr=8-1&keywords=algorithmic+trading) page 77-84
 2. [Quantopian Lecture](https://www.quantopian.com/lectures/kalman-filters) 
