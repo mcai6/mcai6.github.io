@@ -66,7 +66,7 @@ Now, dx = a(x,t)dt+b(x,t)dz
 
 Based on theories of Ito process, Wiener process, Markov process... A popular way of giving an intuitive understanding of stochastic process is Monte Carlo Simulation. It's also important in derivative pricing. When we want pricing a swaption, we can simulate 10000 times or more, then calculate a mean. 
 
-Let's try a very simple simulation: initial price 100, 250 trading days per annum, 15% expected return per annum, and 30% volatility, 50 iteration simulation
+Let's try a very simple simulation: initial price 100 dollars, 250 trading days per annum, 15% expected return per annum, and 30% volatility, 50 iteration simulation
 
 
 ```python
