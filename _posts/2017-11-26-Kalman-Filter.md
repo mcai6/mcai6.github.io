@@ -139,16 +139,11 @@ Looks much more stable with tighter range between 2 to 14. ADF test also looks g
 plt.plot(y-state_means[:,0]*x+5,'r',label='kalman filter')
 plt.plot(y-k*x,'g',label = 'OLS')
 plt.legend()
-plt.show
+plt.show()
 ```
-
-
-
-
-    <function matplotlib.pyplot.show>
-
-
-
 
 ![png](https://ws1.sinaimg.cn/large/006tNc79gy1flvjo6lgt7j30mm0de0ub.jpg)
 
+##Links
+1. [Algothmic Trading](https://www.amazon.com/Algorithmic-Trading-Winning-Strategies-Rationale/dp/1118460146/ref=sr_1_1?ie=UTF8&qid=1511660151&sr=8-1&keywords=algorithmic+trading) page 77-84
+2. [Quantopian Lecture](https://www.quantopian.com/lectures/kalman-filters) 

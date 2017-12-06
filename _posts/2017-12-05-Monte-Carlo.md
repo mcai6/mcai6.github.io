@@ -96,4 +96,10 @@ for i in range(iteration):
 ![](https://ws3.sinaimg.cn/large/006tNc79gy1fm6xnxagz0j30mz0dedol.jpg)
 
 
-### WOW....
+### wow....
+
+##Links
+1. [Option, Futures and other derivatives](https://www.amazon.com/Options-Futures-Derivatives-DerivaGem-Package/dp/0132777428/ref=sr_1_2?ie=UTF8&qid=1512540363&sr=8-2&keywords=options+futures+and+other+derivatives+8)  Chaper 13
+2. 
+
+
