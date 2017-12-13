@@ -1,6 +1,6 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
-title:      2.1 Pairs Trading -- Bitcoin and Litecoin 				# 标题 
+title:      2.1 Pairs -- Bitcoin and Litecoin 				# 标题 
 subtitle:    #副标题
 date:       2017-12-12				# 时间
 author:     Manlin 						# 作者
