@@ -1,10 +1,10 @@
 # Site settings
 title: Manlin's Notes
-SEOTitle: Manlin Cai | MCai Blog
+SEOTitle: Manlin Cai | Manlin's Notes
 header-img: img/540ACF83-861A-488E-8745-84902263A1EF.jpg
 email: mcai6@hawk.iit.edu
 description: "Statistic methods, Trading strategies, Machine learning"
-keyword: "MCai, MCai Blog, 漫琳的博客, mcai6, 蔡漫琳, Quant, Stocks, Futures"
+keyword: "MCai, Manlin's Notes, 漫琳的博客, mcai6, 蔡漫琳, Quant, Stocks, Futures"
 url: "http://mcai6.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/mcai6/mcai6.github.io/tree/master/_posts" # you code repository
